@@ -2,7 +2,7 @@
 
 ## Station Vlog
 【あ】
-```
+```text
 秋葉原
 ```
 池袋
