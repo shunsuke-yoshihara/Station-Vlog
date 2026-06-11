@@ -3,9 +3,7 @@
 ## Station Vlog
 【あ】
 
-```
-[秋葉原](https://github.com/shunsuke-yoshihara/Station-Vlog/blob/main/station/0BCC2A43-88E0-485C-B7AC-A1731F4A59BD.JPEG)
-```
+```秋葉原```
 ```池袋```
 ```江ノ島```
 ```大分```
